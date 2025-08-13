@@ -1,0 +1,4 @@
+#忽略exe等打包相關的檔案
+*.exe
+/dist/
+/build/
